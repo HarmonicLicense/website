@@ -1,0 +1,79 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Harmonic License",
+    "description": "",
+    "home_page_url": "https://harmoniclicense.com",
+    "feed_url": "https://harmoniclicense.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hahns Shin"
+    },
+    "items": [
+        {
+            "id": "https://harmoniclicense.com/on-a-rollercoaster.html",
+            "url": "https://harmoniclicense.com/on-a-rollercoaster.html",
+            "title": "Aptos Retreat (June 14-16, 2024)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_09-52-38_018.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_09-52-38_018-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_10-15-17_407.jpeg\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_10-15-17_407-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_15-22-05_828.jpeg\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_15-22-05_828-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_15-22-28_420.jpeg\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-15_15-22-28_420-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-32-32_835.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-32-32_835-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-41-31_506.jpeg\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-41-31_506-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-43-11_097.jpeg\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-43-11_097-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-50-40_619.jpeg\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/5/gallery/2024-06-16_11-50-40_619-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
+            "image": "https://harmoniclicense.com/media/posts/5/2024-06-16_11-32-32_835-2.jpg",
+            "author": {
+                "name": "Hahns Shin"
+            },
+            "tags": [
+                   "Photos"
+            ],
+            "date_published": "2024-06-19T16:28:49-07:00",
+            "date_modified": "2024-06-19T16:40:14-07:00"
+        },
+        {
+            "id": "https://harmoniclicense.com/videos.html",
+            "url": "https://harmoniclicense.com/videos.html",
+            "title": "Videos",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FCVcCCaXZ44?si=zXkb1uh02CqmLImS\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BVw4VGXpcu0?si=Koaw64baBO1QFyGa\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Hahns Shin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T16:13:07-07:00",
+            "date_modified": "2024-06-19T16:17:50-07:00"
+        },
+        {
+            "id": "https://harmoniclicense.com/gallery.html",
+            "url": "https://harmoniclicense.com/gallery.html",
+            "title": "Gallery",
+            "author": {
+                "name": "Hahns Shin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T16:13:01-07:00",
+            "date_modified": "2024-06-19T16:13:01-07:00"
+        },
+        {
+            "id": "https://harmoniclicense.com/contact-us.html",
+            "url": "https://harmoniclicense.com/contact-us.html",
+            "title": "Contact Us",
+            "summary": "You can reach us at harmoniclicense@gmail.com",
+            "content_html": "<p>You can reach us at harmoniclicense@gmail.com</p>",
+            "author": {
+                "name": "Hahns Shin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T16:09:04-07:00",
+            "date_modified": "2024-06-19T16:09:04-07:00"
+        },
+        {
+            "id": "https://harmoniclicense.com/about-us.html",
+            "url": "https://harmoniclicense.com/about-us.html",
+            "title": "About Us",
+            "author": {
+                "name": "Hahns Shin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T16:08:41-07:00",
+            "date_modified": "2024-06-19T16:15:31-07:00"
+        }
+    ]
+}
