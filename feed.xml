@@ -3,7 +3,7 @@
     <title>Harmonic License</title>
     <link href="https://harmoniclicense.com/feed.xml" rel="self" />
     <link href="https://harmoniclicense.com" />
-    <updated>2024-06-20T00:05:10-07:00</updated>
+    <updated>2024-06-20T00:55:41-07:00</updated>
     <author>
         <name>Hahns Shin</name>
     </author>
@@ -77,12 +77,12 @@
         <updated>2024-06-19T16:09:04-07:00</updated>
             <summary>
                 <![CDATA[
-                    You can reach us at harmoniclicense@gmail.com
+                    You can reach us at... Email: harmoniclicense@gmail.com Instagram: @harmoniclicense
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>You can reach us at harmoniclicense@gmail.com</p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://harmoniclicense.com/media/posts/2/2024-06-15_10-15-17_407.jpeg" alt="Five hands holding a Danish waffle." width="340" height="454" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://harmoniclicense.com/media/posts/2/responsive/2024-06-15_10-15-17_407-xs.jpeg 300w ,https://harmoniclicense.com/media/posts/2/responsive/2024-06-15_10-15-17_407-sm.jpeg 480w ,https://harmoniclicense.com/media/posts/2/responsive/2024-06-15_10-15-17_407-md.jpeg 768w ,https://harmoniclicense.com/media/posts/2/responsive/2024-06-15_10-15-17_407-lg.jpeg 1024w"></figure>You can reach us at...<br>Email: <a href="mailto:harmoniclicense@gmail.com">harmoniclicense@gmail.com</a><br>Instagram: <a href="https://www.instagram.com/harmoniclicense">@harmoniclicense</a></p>
             ]]>
         </content>
     </entry>
@@ -103,7 +103,7 @@
         <content type="html">
             <![CDATA[
                 <p>Harmonic License is a Bay Area A Cappella group, formerly known as Lullabies and Honey.  We sing an eclectic mix of pop, jazz, and rock in the modern a cappella style popularized by groups like Pentatonix and The King's Singers.</p>
-<p>Each of the singers in Harmonic License has a unique musical background, but they all share a love of singing and spreading the joy of music.</p>
+<p>Each of us in Harmonic License has a unique musical background, but we all share a love of singing and spreading the joy of music.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/AlexHeadshotTemp.jpg" data-size="680x951"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/AlexHeadshotTemp-thumbnail.jpg" alt="Alex Bignell" width="680" height="951"></a>
 <figcaption>Alex Bignell</figcaption>
