@@ -3,12 +3,36 @@
     <title>Harmonic License</title>
     <link href="https://harmoniclicense.com/feed.xml" rel="self" />
     <link href="https://harmoniclicense.com" />
-    <updated>2024-06-20T00:55:41-07:00</updated>
+    <updated>2024-06-22T19:46:47-07:00</updated>
     <author>
         <name>Hahns Shin</name>
     </author>
     <id>https://harmoniclicense.com</id>
 
+    <entry>
+        <title>Rehearsal Photos (June 22, 2024)</title>
+        <author>
+            <name>Hahns Shin</name>
+        </author>
+        <link href="https://harmoniclicense.com/rehearsal-photos-june-22-2024.html"/>
+        <id>https://harmoniclicense.com/rehearsal-photos-june-22-2024.html</id>
+        <media:content url="https://harmoniclicense.com/media/posts/6/IMG_5736.JPG" medium="image" />
+            <category term="Photos"/>
+
+        <updated>2024-06-22T19:44:17-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://harmoniclicense.com/media/posts/6/IMG_5736.JPG" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/6/gallery/IMG_5656.JPG" data-size="2048x1536"><img loading="lazy" src="https://harmoniclicense.com/media/posts/6/gallery/IMG_5656-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/6/gallery/IMG_5706.JPG" data-size="2048x1536"><img loading="lazy" src="https://harmoniclicense.com/media/posts/6/gallery/IMG_5706-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/6/gallery/IMG_5719.JPG" data-size="2048x1536"><img loading="lazy" src="https://harmoniclicense.com/media/posts/6/gallery/IMG_5719-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/6/gallery/IMG_5736.JPG" data-size="2048x1536"><img loading="lazy" src="https://harmoniclicense.com/media/posts/6/gallery/IMG_5736-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aptos Retreat (June 14-16, 2024)</title>
         <author>
@@ -44,27 +68,17 @@
         </author>
         <link href="https://harmoniclicense.com/videos.html"/>
         <id>https://harmoniclicense.com/videos.html</id>
+        <media:content url="https://harmoniclicense.com/media/posts/4/Videos-Banner.jpg" medium="image" />
 
         <updated>2024-06-19T16:13:07-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://harmoniclicense.com/media/posts/4/Videos-Banner.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/FCVcCCaXZ44?si=zXkb1uh02CqmLImS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/BVw4VGXpcu0?si=Koaw64baBO1QFyGa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Gallery</title>
-        <author>
-            <name>Hahns Shin</name>
-        </author>
-        <link href="https://harmoniclicense.com/gallery.html"/>
-        <id>https://harmoniclicense.com/gallery.html</id>
-
-        <updated>2024-06-19T16:13:01-07:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>Contact Us</title>
@@ -93,31 +107,34 @@
         </author>
         <link href="https://harmoniclicense.com/about-us.html"/>
         <id>https://harmoniclicense.com/about-us.html</id>
+        <media:content url="https://harmoniclicense.com/media/posts/1/IMG_5736.JPG" medium="image" />
 
         <updated>2024-06-19T16:08:41-07:00</updated>
             <summary>
                 <![CDATA[
-                    Harmonic License is a Bay Area A Cappella group, formerly known as&hellip;
+                        <img src="https://harmoniclicense.com/media/posts/1/IMG_5736.JPG" alt="" />
+                    Harmonic License is a Bay Area a cappella quintet, formerly known as&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Harmonic License is a Bay Area A Cappella group, formerly known as Lullabies and Honey.  We sing an eclectic mix of pop, jazz, and rock in the modern a cappella style popularized by groups like Pentatonix and The King's Singers.</p>
+                    <p><img src="https://harmoniclicense.com/media/posts/1/IMG_5736.JPG" class="type:primaryImage" alt="" /></p>
+                <p>Harmonic License is a Bay Area a cappella quintet, formerly known as the quartet Lullabies and Honey.  We sing an eclectic mix of pop, jazz, and rock in the modern a cappella style popularized by groups like Pentatonix and The King's Singers.</p>
 <p>Each of us in Harmonic License has a unique musical background, but we all share a love of singing and spreading the joy of music.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
-<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/AlexHeadshotTemp.jpg" data-size="680x951"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/AlexHeadshotTemp-thumbnail.jpg" alt="Alex Bignell" width="680" height="951"></a>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Alex.jpg" data-size="800x800"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Alex-thumbnail.jpg" alt="Alex Bignell" width="768" height="768"></a>
 <figcaption>Alex Bignell</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/CatLi_Headshot_Temp.jpg" data-size="297x334"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/CatLi_Headshot_Temp-thumbnail.jpg" alt="Catheryn Li" width="297" height="334"></a>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Cat.jpg" data-size="800x800"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Cat-thumbnail.jpg" alt="Catheryn Li" width="768" height="768"></a>
 <figcaption>Catheryn Li</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/HahnsHeadshotTemp.jpg" data-size="351x325"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/HahnsHeadshotTemp-thumbnail.jpg" alt="Hahns Shin" width="351" height="325"></a>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Hahns.jpg" data-size="800x800"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Hahns-thumbnail.jpg" alt="Hahns Shin" width="768" height="768"></a>
 <figcaption>Hahns Shin</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/MichaelHeadShotTemp.jpg" data-size="349x499"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/MichaelHeadShotTemp-thumbnail.jpg" alt="Michael Eng Hoe Khor" width="349" height="499"></a>
-<figcaption>Michale Eng Hoe Khor</figcaption>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Michael.jpg" data-size="800x800"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Michael-thumbnail.jpg" alt="Michael Eng Hoe Khor" width="768" height="768"></a>
+<figcaption>Michael Eng Hoe Khor</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/WenleyHeadShotTemp.jpg" data-size="301x368"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/WenleyHeadShotTemp-thumbnail.jpg" alt="Wenley Tong" width="301" height="368"></a>
+<figure class="gallery__item"><a href="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Wenley.jpg" data-size="800x800"><img loading="lazy" src="https://harmoniclicense.com/media/posts/1/gallery/Headshot_Wenley-thumbnail.jpg" alt="Wenley Tong" width="768" height="768"></a>
 <figcaption>Wenley Tong</figcaption>
 </figure>
 </div></div>

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://harmoniclicense.com/rehearsal-photos-june-22-2024.html",
+            "url": "https://harmoniclicense.com/rehearsal-photos-june-22-2024.html",
+            "title": "Rehearsal Photos (June 22, 2024)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5656.JPG\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5656-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5706.JPG\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5706-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5719.JPG\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5719-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5736.JPG\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/6/gallery/IMG_5736-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
+            "image": "https://harmoniclicense.com/media/posts/6/IMG_5736.JPG",
+            "author": {
+                "name": "Hahns Shin"
+            },
+            "tags": [
+                   "Photos"
+            ],
+            "date_published": "2024-06-22T19:44:17-07:00",
+            "date_modified": "2024-06-22T19:45:38-07:00"
+        },
+        {
             "id": "https://harmoniclicense.com/on-a-rollercoaster.html",
             "url": "https://harmoniclicense.com/on-a-rollercoaster.html",
             "title": "Aptos Retreat (June 14-16, 2024)",
@@ -22,32 +37,21 @@
                    "Photos"
             ],
             "date_published": "2024-06-19T16:28:49-07:00",
-            "date_modified": "2024-06-19T16:40:14-07:00"
+            "date_modified": "2024-06-22T19:44:27-07:00"
         },
         {
             "id": "https://harmoniclicense.com/videos.html",
             "url": "https://harmoniclicense.com/videos.html",
             "title": "Videos",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FCVcCCaXZ44?si=zXkb1uh02CqmLImS\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BVw4VGXpcu0?si=Koaw64baBO1QFyGa\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://harmoniclicense.com/media/posts/4/Videos-Banner.jpg",
             "author": {
                 "name": "Hahns Shin"
             },
             "tags": [
             ],
             "date_published": "2024-06-19T16:13:07-07:00",
-            "date_modified": "2024-06-19T16:17:50-07:00"
-        },
-        {
-            "id": "https://harmoniclicense.com/gallery.html",
-            "url": "https://harmoniclicense.com/gallery.html",
-            "title": "Gallery",
-            "author": {
-                "name": "Hahns Shin"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-19T16:13:01-07:00",
-            "date_modified": "2024-06-20T00:55:41-07:00"
+            "date_modified": "2024-06-22T19:43:29-07:00"
         },
         {
             "id": "https://harmoniclicense.com/contact-us.html",
@@ -61,21 +65,22 @@
             "tags": [
             ],
             "date_published": "2024-06-19T16:09:04-07:00",
-            "date_modified": "2024-06-20T00:55:19-07:00"
+            "date_modified": "2024-06-22T19:46:47-07:00"
         },
         {
             "id": "https://harmoniclicense.com/about-us.html",
             "url": "https://harmoniclicense.com/about-us.html",
             "title": "About Us",
-            "summary": "Harmonic License is a Bay Area A Cappella group, formerly known as&hellip;",
-            "content_html": "<p>Harmonic License is a Bay Area A Cappella group, formerly known as Lullabies and Honey.  We sing an eclectic mix of pop, jazz, and rock in the modern a cappella style popularized by groups like Pentatonix and The King's Singers.</p>\n<p>Each of us in Harmonic License has a unique musical background, but we all share a love of singing and spreading the joy of music.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/AlexHeadshotTemp.jpg\" data-size=\"680x951\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/AlexHeadshotTemp-thumbnail.jpg\" alt=\"Alex Bignell\" width=\"680\" height=\"951\"></a>\n<figcaption>Alex Bignell</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/CatLi_Headshot_Temp.jpg\" data-size=\"297x334\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/CatLi_Headshot_Temp-thumbnail.jpg\" alt=\"Catheryn Li\" width=\"297\" height=\"334\"></a>\n<figcaption>Catheryn Li</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/HahnsHeadshotTemp.jpg\" data-size=\"351x325\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/HahnsHeadshotTemp-thumbnail.jpg\" alt=\"Hahns Shin\" width=\"351\" height=\"325\"></a>\n<figcaption>Hahns Shin</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/MichaelHeadShotTemp.jpg\" data-size=\"349x499\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/MichaelHeadShotTemp-thumbnail.jpg\" alt=\"Michael Eng Hoe Khor\" width=\"349\" height=\"499\"></a>\n<figcaption>Michale Eng Hoe Khor</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/WenleyHeadShotTemp.jpg\" data-size=\"301x368\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/WenleyHeadShotTemp-thumbnail.jpg\" alt=\"Wenley Tong\" width=\"301\" height=\"368\"></a>\n<figcaption>Wenley Tong</figcaption>\n</figure>\n</div></div>",
+            "summary": "Harmonic License is a Bay Area a cappella quintet, formerly known as&hellip;",
+            "content_html": "<p>Harmonic License is a Bay Area a cappella quintet, formerly known as the quartet Lullabies and Honey.  We sing an eclectic mix of pop, jazz, and rock in the modern a cappella style popularized by groups like Pentatonix and The King's Singers.</p>\n<p>Each of us in Harmonic License has a unique musical background, but we all share a love of singing and spreading the joy of music.</p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Alex.jpg\" data-size=\"800x800\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Alex-thumbnail.jpg\" alt=\"Alex Bignell\" width=\"768\" height=\"768\"></a>\n<figcaption>Alex Bignell</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Cat.jpg\" data-size=\"800x800\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Cat-thumbnail.jpg\" alt=\"Catheryn Li\" width=\"768\" height=\"768\"></a>\n<figcaption>Catheryn Li</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Hahns.jpg\" data-size=\"800x800\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Hahns-thumbnail.jpg\" alt=\"Hahns Shin\" width=\"768\" height=\"768\"></a>\n<figcaption>Hahns Shin</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Michael.jpg\" data-size=\"800x800\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Michael-thumbnail.jpg\" alt=\"Michael Eng Hoe Khor\" width=\"768\" height=\"768\"></a>\n<figcaption>Michael Eng Hoe Khor</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Wenley.jpg\" data-size=\"800x800\"><img loading=\"lazy\" src=\"https://harmoniclicense.com/media/posts/1/gallery/Headshot_Wenley-thumbnail.jpg\" alt=\"Wenley Tong\" width=\"768\" height=\"768\"></a>\n<figcaption>Wenley Tong</figcaption>\n</figure>\n</div></div>",
+            "image": "https://harmoniclicense.com/media/posts/1/IMG_5736.JPG",
             "author": {
                 "name": "Hahns Shin"
             },
             "tags": [
             ],
             "date_published": "2024-06-19T16:08:41-07:00",
-            "date_modified": "2024-06-20T00:55:27-07:00"
+            "date_modified": "2024-06-22T19:37:52-07:00"
         }
     ]
 }
